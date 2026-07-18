@@ -1,0 +1,10 @@
+{
+  "name": "covenant-learning-webhooks",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.8",
+    "stripe": "^18.5.0"
+  }
+}
